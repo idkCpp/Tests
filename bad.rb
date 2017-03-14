@@ -1,0 +1,3 @@
+#!/usr/bin/ruby
+
+I have no idea how the ruby syntax works... But this shebang is not registered...
